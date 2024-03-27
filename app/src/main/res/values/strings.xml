@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Event Bus Pattern</string>
+    <string name="item_event_description_sport">Icono del deporte</string>
+    <string name="item_event_warning">Pospuesto</string>
+    <string name="item_event_results">1º: %1s\n2º: %2s\n3º: %3s</string>
+    <string name="main_tv_ad">PUBLICIDAD</string>
+</resources>
